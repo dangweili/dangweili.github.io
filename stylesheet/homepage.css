@@ -1,8 +1,0 @@
-/* define the paragraph indent */
-.center
-{
-    margin: auto;
-    width: 80%;
-}
-p {text-indent: 5em;}
-
